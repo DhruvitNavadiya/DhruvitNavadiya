@@ -318,10 +318,6 @@ G.H. Patel College of Engineering & Technology, Anand, India
 
 | Channel | Link |
 |---|---|
-| 📧 Email | navadiyadhruvit@gmail.com |
-| 📱 Phone | +91 9099645594 |
-| 🌐 Portfolio | [dhruvitnavadiya.vercel.app](https://dhruvitnavadiya.vercel.app) |
-| 💼 LinkedIn | [linkedin.com/in/dhruvit-navadiya](https://linkedin.com/in/dhruvit-navadiya) |
 | 🧑‍💻 Upwork | [Freelance Profile](https://www.upwork.com/freelancers/~01c62dbeb138533025) |
 
 ---
