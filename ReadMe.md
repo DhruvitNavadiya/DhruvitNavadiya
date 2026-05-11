@@ -11,10 +11,8 @@
 
 ### AI Automation Engineer · Agentic Systems Architect · LLM Pipelines · Python
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dhruvitnavadiya.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dhruvitnavadiya.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvit-navadiya)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c62dbeb138533025)
-[![Email](https://img.shields.io/badge/Email-navadiyadhruvit@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navadiyadhruvit@gmail.com)
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DhruvitNavadiya&color=58a6ff&style=flat-square&label=Profile+Views)
 
